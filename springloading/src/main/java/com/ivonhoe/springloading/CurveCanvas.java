@@ -1,4 +1,4 @@
-package com.demo.bezierInterpolator;
+package com.ivonhoe.springloading;
 
 import android.content.Context;
 import android.graphics.*;
