@@ -1,5 +1,11 @@
-https://ivonhoe.github.io/2015/09/01/Android%E5%8A%A8%E7%94%BB%E6%80%BB%E7%BB%93%E4%B9%8B%E6%9C%89%E8%B5%9E%E3%80%81%E9%82%AE%E7%AE%B1%E5%A4%A7%E5%B8%88%E8%BF%9B%E5%BA%A6%E6%9D%A1%E5%AE%9E%E7%8E%B0%E5%8E%9F%E7%90%86/
+
 ---
+
+## Android动画总结之有赞、邮箱大师进度条实现原理
+
+### [原文地址](https://ivonhoe.github.io/2015/09/01/Android%E5%8A%A8%E7%94%BB%E6%80%BB%E7%BB%93%E4%B9%8B%E6%9C%89%E8%B5%9E%E3%80%81%E9%82%AE%E7%AE%B1%E5%A4%A7%E5%B8%88%E8%BF%9B%E5%BA%A6%E6%9D%A1%E5%AE%9E%E7%8E%B0%E5%8E%9F%E7%90%86/)
+
+### 相关文章 [基于贝塞尔曲线的安卓动画插值器](https://github.com/Ivonhoe/android-fancy-drawable/blob/master/README-BEZIER.md)
 
 ## 一、效果
 ![ ](https://ivonhoe.github.io/res/android_animation2/xiaoguo.gif)
